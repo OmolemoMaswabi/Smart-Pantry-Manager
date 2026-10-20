@@ -126,17 +126,7 @@ The following functionality has been demonstrated:
 - Recipe suggestions are based on the 20 predefined recipes.
 - Ingredient and recipe information is stored locally on the device.
 
-## Academic Information
-
-**Institution:** Richfield Graduate Institute of Technology  
-**Module:** Mobile App Development 700  
-**Project:** Smart Pantry Manager  
-**Student Name:** OmolemoMaswabi  
-**Student Number:** 402307194
 
 ## Project Status
 
 The application implements the main pantry management and recipe recommendation features. Further testing and improvements may be carried out as part of development.
-
-## Author
-OmolemoMaswabi
