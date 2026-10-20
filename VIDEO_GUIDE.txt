@@ -1,0 +1,6 @@
+5–7 minute narrated demonstration outline (record YOUR actual work):
+0:00–1:00 Open GitHub; show genuine commit history and describe changes.
+1:00–3:30 Launch app; show empty state, create/read/update/delete ingredient, matching and nonmatching recipes, recipe details, validation and persistence after restart.
+3:30–5:45 Open Java source; explain SQLiteOpenHelper, ListView/adapter, Activity intents, strict-matching with quantities and unit conversion.
+5:45–6:30 Justify SQLite as offline persistent storage; conclude.
+Use a legible 1080p capture with your own voice. Export MP4/H.264 and include it in final ZIP (under 50 MB total).
